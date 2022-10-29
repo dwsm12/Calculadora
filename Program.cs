@@ -11,15 +11,4 @@ namespace Calculadora
         }
     }
 
-
-
-
-
-
-
-
-
-
-
-
 }
